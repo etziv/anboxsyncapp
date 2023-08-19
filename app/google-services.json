@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "496054974132",
+    "project_id": "anboxsync",
+    "storage_bucket": "anboxsync.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496054974132:android:d608bcfc67364a51e289e1",
+        "android_client_info": {
+          "package_name": "com.arcane.anboxsync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496054974132-v2tuaqra9hl9k1nu2fp1n5f86cqlc2k5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2oi1stqDyD_ssItrVmDJ4OJM617fsqTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496054974132-v2tuaqra9hl9k1nu2fp1n5f86cqlc2k5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
